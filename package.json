@@ -1,0 +1,26 @@
+{
+  "name": "parse-font",
+  "version": "0.1.0",
+  "description": "Parse .fnt files into json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spritewerk/parse-font.git"
+  },
+  "keywords": [
+    "font",
+    "bitmap-font"
+  ],
+  "author": "Chris Peters {bildepunkt@gmail.com}",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spritewerk/parse-font/issues"
+  },
+  "homepage": "https://github.com/spritewerk/parse-font#readme",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
+}
